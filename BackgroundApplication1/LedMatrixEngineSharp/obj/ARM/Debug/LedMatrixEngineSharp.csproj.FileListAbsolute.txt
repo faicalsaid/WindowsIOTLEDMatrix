@@ -1,0 +1,17 @@
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\bin\ARM\Debug\LedMatrixEngineSharp.dll
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\bin\ARM\Debug\LedMatrixEngineSharp.pdb
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\bin\ARM\Debug\LedMatrixEngineSharp.pri
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\LedMatrixEngineSharp.dll
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\LedMatrixEngineSharp.pdb
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\priconfig.xml
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\layout.resfiles
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\resources.resfiles
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\pri.resfiles
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\qualifiers.txt
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\faica\Documents\Visual Studio 2015\Projects\Prod-Watcher\LedMatrixEngineSharp\obj\ARM\Debug\LedMatrixEngineSharp.csprojResolveAssemblyReference.cache
