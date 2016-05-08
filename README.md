@@ -18,3 +18,5 @@ GPIO 25            -->  G2 (LED 2: Green)<br/>
 
 The library is still not very fast and does some flickering. Any help will be apreciated.
 This library was based on the work of https://github.com/mattdh666/rpi-led-matrix-panel
+
+This c# library is initiate as a contribution by Highwave Creations http://www.highwave.org
