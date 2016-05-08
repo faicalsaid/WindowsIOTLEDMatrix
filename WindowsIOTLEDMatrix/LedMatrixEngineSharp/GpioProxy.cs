@@ -101,11 +101,11 @@ namespace LedMatrixEngineSharp
                 g1.Write(_g1);
                 lastg1 = _g1;
             }
-            //if (lastb1 != _b1)
-            //{
-            //    b1.Write(_b1);
-            //    lastb1 = _b1;
-            //}
+            if (lastb1 != _b1)
+            {
+                b1.Write(_b1);
+                lastb1 = _b1;
+            }
             if (lastr2 != _r2)
             {
                 r2.Write(_r2);
@@ -116,11 +116,11 @@ namespace LedMatrixEngineSharp
                 g2.Write(_g2);
                 lastg2 = _g2;
             }
-            //if (lastb2 != _b2)
-            //{
-            //    b2.Write(_b2);
-            //    lastb2 = _b2;
-            //}
+            if (lastb2 != _b2)
+            {
+                b2.Write(_b2);
+                lastb2 = _b2;
+            }
         }
 
         public void setRowAddress(int row)
